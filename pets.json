@@ -1,0 +1,61 @@
+[
+    {
+        "id": 1,
+        "name": "布丁",
+        "species": "dog",
+        "age": "1",
+        "location": "迎風狗運動公園",
+        "interactionNote": "喜歡被摸肚子",
+        "image_url": "/static/uploads/img-1.png",
+        "tags": [
+            "active",
+            "dogFriendly"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "咪咪",
+        "species": "cat",
+        "age": "1",
+        "location": "迎風狗運動公園",
+        "interactionNote": "高冷",
+        "image_url": "/static/uploads/img-2.png",
+        "tags": [
+            "shy",
+            "catFriendly"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "AAA",
+        "species": "other",
+        "age": "10",
+        "location": "已選定：緯度 22.7031, 經度 120.2944 (點擊或拖曳變更)",
+        "interactionNote": "喜歡很多人的地方",
+        "healthNote": "",
+        "medicalRecords": [],
+        "image_url": "/static/uploads/IMG_0274.jpeg",
+        "tags": [
+            "很划算"
+        ],
+        "lat": 22.703088,
+        "lon": 120.294446
+    },
+    {
+        "id": 4,
+        "name": "豆豆龍",
+        "species": "other",
+        "age": "5",
+        "location": "已選定：緯度 25.0712, 經度 121.5218 (點擊或拖曳變更)",
+        "interactionNote": "看到洞就想鑽\r\n可以摸但不要餵食",
+        "healthNote": "口腔曾有寄生蟲感染",
+        "medicalRecords": [],
+        "image_url": "/static/uploads/Gemini_Generated_Image_kcs75xkcs75xkcs7.png",
+        "tags": [
+            "shy",
+            "個性平靜、無憂無慮，眼神經常聚焦在同一個地方，看起來有點呆萌可愛"
+        ],
+        "lat": 25.071201,
+        "lon": 121.521754
+    }
+]
